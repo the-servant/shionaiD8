@@ -1,0 +1,7 @@
+aarts_test.content:
+  path: '/hello'
+  defaults:
+    _controller: '\Drupal\aarts_test\Controller\Aarts_testController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,6 @@
+{
+    "name": "drupal/aarts_test",
+    "description": "This is composer.json for aarts_test module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+"
+}
